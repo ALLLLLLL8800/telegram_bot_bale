@@ -25,7 +25,7 @@ api_hash = "f15432e1efa96bdcb6b1b3a87592f984"
 CHANNEL_USERNAME = 'jangaavaran1390'
 
 # ========== تنظیمات بله ==========
-BALE_TOKEN = "1825880479:SKAT3qpdRSp5gtx1YYvmR_hgR4TvvQUNN2U"
+BALE_TOKEN = "1825880478:SKAT3qpdRSp5gtx1YYvmR_hgR4TvvQUNN2U"
 BALE_CHAT_ID = "5227164458"
 # ================================
 
