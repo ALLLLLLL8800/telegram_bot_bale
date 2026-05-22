@@ -8,7 +8,7 @@ from telethon import TelegramClient
 
 # ========== تنظیمات تلگرام ==========
 CHANNELS = [
-    'jangaaaran1390',
+    'mamlekate',
     'jangaavaran1390',
     'VahidOnline',
 ]
