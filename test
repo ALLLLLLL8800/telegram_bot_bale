@@ -1,0 +1,5 @@
+import requests
+TOKEN = "1825880479:SKAT3qpdRSp5gtx1YYvmR_hgR4TvvQUNN2U"
+CHAT_ID = "5227164458"
+r = requests.post(f"https://tapi.bale.ai/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": "Test"})
+print(r.status_code, r.text)
